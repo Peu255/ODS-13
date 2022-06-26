@@ -1,6 +1,6 @@
 .wrapper{
     width: 100vw;
-    height: 513vh;
+    height: 529vh;
     background-color: #ffffff;
     position: absolute;
     left: 0px;
@@ -198,6 +198,7 @@
     z-index: 2;
 }
 
+/*carousel css config*/
 .carrossel{
     width: 50vw;
     height: 75vh;
@@ -226,6 +227,7 @@
     95%{margin-left: -299.5%;}
     100%{margin-left: 0%;}
 }
+/*carousel css config end */
 
 .infocarousel{
     position: absolute;
@@ -303,7 +305,7 @@
     position: absolute;
     width: 100vw;
     max-width: 100%;
-    height: 80vh;
+    height: 96vh;
     background-color: #1C1C1C;
     top: 433vh;
     z-index: 2;
@@ -314,7 +316,7 @@
     width: 8vw;
     height: 19.1vh;
     background-color: #ffffff;
-    top: 440vh;
+    top: 436vh;
     left: 5vw;
     z-index: 3;
 }
@@ -329,7 +331,7 @@
     width: 8vw;
     height: 19.1vh;
     background-color: #ffffff;
-    top: 440vh;
+    top: 436vh;
     left: 15vw;
     z-index: 3;
 }
@@ -344,7 +346,7 @@
     width: 8vw;
     height: 19.1vh;
     background-color: #ffffff;
-    top: 440vh;
+    top: 436vh;
     left: 25vw;
     z-index: 3;
 }
@@ -359,7 +361,7 @@
     width: 8vw;
     height: 19.1vh;
     background-color: #ffffff;
-    top: 440vh;
+    top: 436vh;
     left: 35vw;
     z-index: 3;
 }
@@ -374,7 +376,7 @@
     width: 8vw;
     height: 19.1vh;
     background-color: #ffffff;
-    top: 440vh;
+    top: 436vh;
     left: 45vw;
     z-index: 3;
 }
@@ -383,3 +385,235 @@
     width: 8vw;
     height: 19.1vh;
 }
+
+.ods6{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 436vh;
+    left: 55vw;
+    z-index: 3;
+}
+
+.ods6logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods7{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 436vh;
+    left: 65vw;
+    z-index: 3;
+}
+
+.ods7logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods8{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 436vh;
+    left: 75vw;
+    z-index: 3;
+}
+
+.ods8logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods9{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 436vh;
+    left: 85vw;
+    z-index: 3;
+}
+
+.ods9logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods10{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 458vh;
+    left: 5vw;
+    z-index: 3;
+}
+
+.ods10logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods11{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 458vh;
+    left: 15vw;
+    z-index: 3;
+}
+
+.ods11logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods12{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 458vh;
+    left: 25vw;
+    z-index: 3;
+}
+
+.ods12logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods13{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 458vh;
+    left: 35vw;
+    z-index: 3;
+}
+
+.ods13logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods14{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 458vh;
+    left: 45vw;
+    z-index: 3;
+}
+
+.ods14logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods15{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 458vh;
+    left: 55vw;
+    z-index: 3;
+}
+
+.ods15logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods16{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 458vh;
+    left: 65vw;
+    z-index: 3;
+}
+
+.ods16logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.ods17{
+    position: absolute;
+    width: 8vw;
+    height: 19.1vh;
+    background-color: #ffffff;
+    top: 458vh;
+    left: 75vw;
+    z-index: 3;
+}
+
+.ods17logo{
+    width: 8vw;
+    height: 19.1vh;
+}
+
+.odsgeneral{
+    position: absolute;
+    width: 8.9vw;
+    height: 19.1vh;
+    background-color: #1C1C1C;
+    top: 458vh;
+    left: 85vw;
+    z-index: 3;
+}
+
+.odsgenerallogo{
+    width: 8.9vw;
+    height: 19.1vh;
+}
+
+.titleods13{
+    position: absolute;
+    background-color: #00000000;
+    height: 10vh;
+    width: 65vw;
+    top: 0vh;
+    left: 0vw;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ods13title{
+    color: #ffffff;
+    font-size: 3vw;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 0.1px 0.1px 3px;
+}
+
+.textdiv{
+    position: absolute;
+    background-color: #00000000;
+    height: 65vh;
+    width: 55vw;
+    top: 13vh;
+    left: 5vw;
+    z-index: 3;
+}
+
+.ods13text{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9vw;
+}
+
