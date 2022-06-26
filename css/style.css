@@ -617,3 +617,62 @@
     font-size: 0.9vw;
 }
 
+.youtubediv{
+    position: absolute;
+    height: 8vh;
+    width: 5vw;
+    top: 5.5vh;
+    left: 61vw;
+    z-index: 1;
+    background-color: #ffffff00;
+}
+
+.youtubelogo{
+    height: 7.5vh;
+    width: 3.5vw;
+}
+
+.instagramdiv{
+    position: absolute;
+    height: 8vh;
+    width: 5vw;
+    top: 6.7vh;
+    left: 66vw;
+    z-index: 1;
+    background-color: #ffffff00;
+}
+
+.instagramlogo{
+    height: 5vh;
+    width: 2.5vw;
+}
+
+.facebookdiv{
+    position: absolute;
+    height: 8vh;
+    width: 5vw;
+    top: 6.7vh;
+    left: 70vw;
+    z-index: 1;
+    background-color: #ffffff00;
+}
+
+.facebooklogo{
+    height: 5vh;
+    width: 2.5vw;
+}
+
+.twitterdiv{
+    position: absolute;
+    height: 8vh;
+    width: 5vw;
+    top: 6.3vh;
+    left: 74vw;
+    z-index: 1;
+    background-color: #ffffff00;
+}
+
+.twitterlogo{
+    height: 6vh;
+    width: 3vw;
+}
