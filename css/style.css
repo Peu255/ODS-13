@@ -200,7 +200,7 @@
 
 /*carousel css config*/
 .carrossel{
-    width: 50vw;
+    width: 49vw;
     height: 75vh;
     overflow: hidden;
     margin-left: 25vw;
@@ -241,7 +241,7 @@
 
 .illusalert{
     color: #ffffff65;
-    font-size: 1rem;
+    font-size: 1vw;
     margin-left: 11vw;
     display: block;
     text-shadow: 1px 1px 10px;
@@ -678,6 +678,7 @@
     z-index: 3;
 }
 
+/*social media logos*/
 .youtubediv{
     position: absolute;
     height: 8vh;
@@ -736,4 +737,20 @@
 .twitterlogo{
     height: 6vh;
     width: 3vw;
+}
+/*social media logos*/
+
+.onudivlogofooter{
+    position: absolute;
+    top: 64vh;
+    left: 10vw;
+    height: 10vh;
+    width: 8vw;
+    z-index: 6;
+    background-color: #00000000;
+}
+
+.logoonufooter{
+    width: 8.9vw;
+    height: 15vh;
 }
