@@ -1,0 +1,9 @@
+.wrapper-post{
+    height: 230vh;
+    width: 100vw;
+    position: absolute;
+    background-color: #1C1C1C;
+    left: 0px;
+    top: 0px;
+    max-width: 100%;
+}
